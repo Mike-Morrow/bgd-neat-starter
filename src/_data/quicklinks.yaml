@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
+  - title: Learn about the gut
     url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
+    desc: We break down complex topics using simple language and diagrams.
+  - title: Listen to expert interviews
     url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
+    desc: We interview doctors, public health professionals, and gut experts.
+  - title: Gut friendly home cooking methods and techniques
     url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
+    desc: Turn the constraints of a restrictive diet into creative, simple, delicious meals.
+  - title: Explore data and trends
     url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+    desc: We will be releasing data sets and analysis to help you be informed.
