@@ -1,4 +1,4 @@
-<div class="{{ 'lg:fixed' if path == 'home' }} w-full" style="z-index: 1000;">
+<div class="{{ 'lg:fixed' if path == 'home' }} w-full" style="z-index: 1000; position: relative";>
     <nav class="flex items-center justify-center lg:justify-between flex-wrap p-6 lg:px-0 container mx-auto" 
          x-data="{ isOpen: false }" @keydown.escape="isOpen = false" @click.away="isOpen = false" style="z-index: 1000;">
         <!--Logo etc-->
