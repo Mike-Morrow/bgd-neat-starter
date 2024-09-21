@@ -18,6 +18,8 @@ tags:
 
 ## Emphasis
 
+![test](/static/img/embedding-tableau-pulse.png "testtest")
+
 *This text will be italic*\
 *This will also be italic*
 
