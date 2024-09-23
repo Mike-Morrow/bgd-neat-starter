@@ -14,7 +14,7 @@ IBS is a tricky condition because there is no universally agreed upon diagnosis 
 
 There are 3 areas that show promise for improving IBS: 
 1) Getting adequate fiber in your diet (as well as the right kind of fiber)
-2) Identifying possible trigger foods -- Monash University's FODMAP approach is designed to help you figure out potential problem areas. 
+2) Identifying possible trigger foods -- [Monash University's FODMAP approach](https://www.monashfodmap.com/) is designed to help you figure out potential problem areas. 
 3) Addressing anxiety and other mental health challenges
 
 We have plans to do a deep dive series into FODMAPs and the gut-brain connection, so stay tuned!
