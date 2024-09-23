@@ -6,10 +6,12 @@ layout: about
 
 Better Gut Digest explains complex gut topics, interviews experts, and shares easy-to-implement home cooking techniques for people with GI issues.
 
-There’s a galaxy inside each of us
+## There’s a galaxy inside each of us
+
 The Milky Way contains approximately 100 billion stars. This number pales in comparison to the 40 trillion bacteria in our gut1. Living inside our body’s plumbing, these squatters may help us, hurt us, or leave us alone. Between our microbiome, genes, lifestyle, and other environmental factors, everybody’s gut is complex and unique.
 
-I didn’t always spend this much time thinking about the gut
+## I didn’t always spend this much time thinking about the gut
+
 Around 2019, my body gradually began rejecting the foods I used to love. Gone were the days of Chipotle and Panang Curry takeout. My diet became very restrictive out of necessity.
 
 Fast forward a few years, and after dropping ~50 pounds in a few short months (not the good kind of weight loss), I finally got a proper GI workup2 and was diagnosed with Crohn’s disease.
