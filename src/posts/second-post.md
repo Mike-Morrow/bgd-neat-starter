@@ -1,7 +1,7 @@
 ---
 title: "Rice Cooker Mujaddara "
 description: "How to make an easy dish easier "
-author: Surjith S M
+author: Mike Morrow
 date: 2020-09-02
 tags:
   - number-2
