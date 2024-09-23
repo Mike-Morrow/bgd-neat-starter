@@ -1,5 +1,8 @@
 ---
 title: What's the deal with Fiber?
+layout: default
+prism: true
+
 ---
 
 
