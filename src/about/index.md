@@ -2,7 +2,6 @@
 layout: about
 ---
 
-<section class="mt-15 pb-20">
 
 Better Gut Digest explains complex gut topics, interviews experts, and shares easy-to-implement home cooking techniques for people with GI issues.
 
@@ -29,5 +28,3 @@ One of the silver linings of getting Crohn’s is I have fallen in love with coo
 Everyone has different triggers and sensitivities, so my aim is not to give you recipes or diets, but to provide frameworks and techniques that have helped me enjoy the habit of home cooking.
 
 If you or a loved one is suffering from a misbehaved gut, I invite you on this journey to understand this complex organ system and navigate the roadblocks it presents. I’m confident your gut will thank you.
-
-<section class="mt-15 pb-20">
