@@ -1,19 +1,51 @@
 ---
-title: This is my second post
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-date: 2020-09-02
+title: "Rice Cooker Mujaddara "
+description: "How to make an easy dish easier "
 author: Surjith S M
+date: 2020-09-02
 tags:
   - number-2
 ---
+Zojirushi rice cookers are designed for perfect jasmine rice, so adapting them to dishes like Mujadarra may take trial and error. The following recipe works for me — I am using jasmine rice, brown lentils, and half a yellow onion. If you add more onion or your lentils absorb more or less water than mine, you may need to tweak.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+```
+Parcook 1 cup brown lentils (most common ones in US grocery stores) for 20 min on steam mode with water filled up to the same line you’d use for 1 cup of rice
+```
 
-## Section Header
+While the lentils are parcooking —
 
-<a href="{{ '/posts/my-first-post/' | url }}">First post</a>
-<a href="{{ '/posts/my-third-big-post/' | url }}">Third post</a>
+```
+Sauté or airfry 1/2 thinly sliced onion
+```
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+When the 20 minutes is up —
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+```
+Drain (and rinse if you want) lentils
+```
+
+With your lentils in the strainer…
+
+```
+Rinse 1 cup of rice in the rice cooker inner pot
+```
+
+The inner pot should now have only your drained, rinsed rice.
+
+```
+Add water to the 1 cup of rice line. Then add in your strained lentils and the onions (make sure to include the excess onion oil). With all those ingredients combined, add 1/2 cup of water to rice cooker to make sure things don’t dry up (because your lentils will likely absorb more water)
+```
+
+With all your ingredients and water in the inner pot…
+
+```
+Select white rice mode and hover over the rice cooker impatiently for 60 minutes until you hear it sing its melody
+```
+
+And lastly the required optional steps —
+
+```
+Add salt to taste, good olive oil, lemon or vinegar, chopped herbs, or whatever you want — it’s typical to top with reserved fried onions
+```
+
+![](/static/img/mujaddara.jpg "Mujaddara")
