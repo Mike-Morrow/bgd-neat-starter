@@ -1,5 +1,6 @@
 ---
 title: About
+layout: default
 description: about
 author: Mike Morrow
 date: 2024-09-10T04:00:00.000Z
