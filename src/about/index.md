@@ -1,5 +1,5 @@
 ---
-layout: about
+title: What's the deal with Fiber?
 ---
 
 
