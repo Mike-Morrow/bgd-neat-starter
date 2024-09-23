@@ -3,8 +3,8 @@ items:
   - text: About
     url: "/posts/about"
   - text: IBS
-    url: "/posts/ibs%20resources"
+    url: "/posts/ibs-resources"
   - text: IBD
-    url: "/posts/ibd%20resources"
+    url: "/posts/ibd-resources"
   - text: Blog
     url: "/blog"
