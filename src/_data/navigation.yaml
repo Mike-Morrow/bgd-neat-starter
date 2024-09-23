@@ -2,9 +2,9 @@
 items:
   - text: About
     url: "/posts/about"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: IBS
+    url: "/posts/ibs-resources"
+  - text: IBD
+    url: "/posts-ibd-resources"
   - text: Blog
     url: "/blog"
