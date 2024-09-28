@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/IBS-Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/IBS-Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/IBS-Resources.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60e4365c43bfb4cc",
+  "active": "c8b8d3ce63cc419f",
   "lastOpenFiles": [
-    "posts/IBD-Resources.md",
     "posts/IBS-Resources.md",
+    "Untitled.md",
+    "posts/IBD-Resources.md",
     "posts/my-first-post.md",
     "posts/second-post.md",
     "posts/about.md"
