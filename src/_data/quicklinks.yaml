@@ -1,14 +1,17 @@
 ---
 links:
-  - title: Learn about the gut
+  - title: Home Cooking
     # url: "https://www.netlifycms.org/"
-    desc: We break down complex topics using simple language and diagrams.
-  - title: Expert interviews
+    desc: Learn and get inspired to cook food that's good for your specific needs.
+  - title: Food Systems
     # url: "https://www.11ty.dev/"
-    desc: We interview doctors, public health professionals, and gut experts (coming soon).
-  - title: Gut friendly home cooking methods and techniques
+    desc: Learn about our global food systems and how they impact health.
+  - title: Gut Health
     # url: "https://github.com/alpinejs/alpine"
-    desc: Turn the constraints of a restrictive diet into creative, simple, delicious meals.
-  - title: Explore data and trends
+    desc: Curated resources for gut health.
+  - title: Mental Health
     # url: "https://tailwindcss.com/"
-    desc: We will be releasing data sets and analysis to help you be informed (coming soon).
+    desc: Learn about the gut brain connection.
+    - title: Data and Analysis 
+    # url: "https://tailwindcss.com/"
+    desc: Find and explore data and analysis related to food.
