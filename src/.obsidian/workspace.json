@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/IBS-Resources.md",
+                "file": "posts/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "posts/about.md"
               }
             }
           }
@@ -157,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8b8d3ce63cc419f",
+  "active": "60e4365c43bfb4cc",
   "lastOpenFiles": [
+    "posts/coming-soon.md",
+    "posts/second-post.md",
     "posts/IBS-Resources.md",
     "Untitled.md",
     "posts/IBD-Resources.md",
     "posts/my-first-post.md",
-    "posts/second-post.md",
     "posts/about.md"
   ]
 }
