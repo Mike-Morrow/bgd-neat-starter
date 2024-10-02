@@ -2,9 +2,11 @@
 items:
   - text: About
     url: "/posts/about"
-  - text: IBS
-    url: "/posts/ibs-resources"
-  - text: IBD
-    url: "/posts/ibd-resources"
-  - text: Blog
-    url: "/blog"
+  - text: Home Cooking
+    url: "/homecooking"
+  - text: Food Systems
+    url: "/foodsystems"
+  - text: Gut Health
+    url: "/guthealth"
+  - text: Gut Brain Connection
+    url: "/mentalhealth"
