@@ -1,7 +1,7 @@
 ---
 links:
   - title: Home Cooking
-    # url: "https://www.netlifycms.org/"
+    url: "/homecooking"
     desc: Learn and get inspired to cook food that's good for your specific needs.
   - title: Food Systems
     # url: "https://www.11ty.dev/"
@@ -9,12 +9,12 @@ links:
   - title: Gut Health
     # url: "https://github.com/alpinejs/alpine"
     desc: Curated resources for gut health.
-  - title: Mental Health
+  - title: Gut Brain Connection
     # url: "https://tailwindcss.com/"
-    desc: Learn about the gut brain connection.
-  - title: Data and Analysis 
-    # url: "https://tailwindcss.com/"
-    desc: Find and explore data and analysis related to food.
-  - title: Software Tools 
-    # url: "https://tailwindcss.com/"
-    desc: Coming later.  
+    desc: Learn how mental health is linked to gut health.
+  # - title: Data and Analysis 
+  #   # url: "https://tailwindcss.com/"
+  #   desc: Find and explore data and analysis related to food.
+  # - title: Software Tools 
+  #   # url: "https://tailwindcss.com/"
+  #   desc: Coming later.  
