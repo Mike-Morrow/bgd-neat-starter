@@ -21,12 +21,12 @@ The information online about GI issues and food is — to put in kindly — a cl
 
 One of the silver linings of getting Crohn’s is I have fallen in love with cooking at home. I became singularly focused on making food taste good while still agreeing with my body. Although, I am able to eat out again without as many issues, I prefer home cooking where I can control what goes into a dish — and it’s fun!
 
-As a system engineer by trade, I've become interested in all the components affecting gut health including: 
+As a system engineer by trade, I'm trying to learn about all the components affecting gut health including: 
 - food production
 - diet and lifestyle
 - gut flora
 - disease
 - mental health
-- and more
+- and more...
 
-If you or a loved one is suffering from a misbehaved gut, I invite you on this journey to understand this complex organ system and navigate the roadblocks it presents. I’m confident your gut will thank you.
+If you or a loved one is suffering from a misbehaved gut, I invite you on this journey of learning. I’m confident your gut will thank you.
