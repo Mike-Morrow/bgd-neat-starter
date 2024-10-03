@@ -1,7 +1,7 @@
 ---
 items:
   - text: About
-    url: "/posts/about"
+    url: "/about"
   - text: Home Cooking
     url: "/homecooking"
   - text: Food Systems

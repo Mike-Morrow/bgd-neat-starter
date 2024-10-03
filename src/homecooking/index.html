@@ -1,129 +1,32 @@
 ---
 layout: default
+prism: true
 title: Home Cooking
 path: homecooking
 ---
 
+<script>
+  window.addEventListener('load', function() {
+    document.querySelectorAll('.container.max-w-4xl.mt-6.px-6 a').forEach(link => {
+      link.setAttribute('target', '_blank');
+    });
+  });
+</script>
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Food YouTube Channels</title>
-    <style>
-        body {
-
-            margin: 20px;
-        }
-
-        table {
-            width: 60%;
-            border-collapse: collapse;
-            margin-bottom: 20px;
-            font-size: 16px;
-        }
-
-        th, td {
-            padding: 12px 15px;
-            border-bottom: 1px solid #ddd;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f4f4f4;
-            font-weight: bold;
-        }
-
-        tr:hover {
-            background-color: #f9f9f9;
-        }
-
-        tbody tr:nth-child(even) {
-            background-color: #f4f4f4;
-        }
-
-        caption {
-            font-size: 18px;
-            margin-bottom: 10px;
-            text-align: left;
-            font-weight: bold;
-        }
-    </style>
-</head>
-
-<div class="container mx-auto flex flex-col justify-center items-center">
-
-
-<h1 class="text-center">
-  Home Cooking Resources
-</h1>
-
-</br>
-
-  <table>
-    <caption>Mike's Favorite Home Cooking YouTube Channels</caption>
-    <thead>
-        <tr>
-            <th>Channel Name</th>
-            <th>Specialty</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://www.youtube.com/@MiddleEats" target="_blank" style="color: blue; text-decoration: none;">Middle Eats</a></td>
-            <td>Middle Eastern food</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@SipandFeast" target="_blank" style="color: blue; text-decoration: none;">Sip and Feast</a></td>
-            <td>Italian American</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@YEUNGMANCOOKING" target="_blank" style="color: blue; text-decoration: none;">Yeung Man Cooking</a></td>
-            <td>Vegetarian</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@MadeWithLau" target="_blank" style="color: blue; text-decoration: none;">Made with Lau</a></td>
-            <td>Cantonese</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@helenrennie" target="_blank" style="color: blue; text-decoration: none;">Helen Rennie</a></td>
-            <td>General</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@foodwishes" target="_blank" style="color: blue; text-decoration: none;">Food Wishes</a></td>
-            <td>General</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@JKenjiLopezAlt" target="_blank" style="color: blue; text-decoration: none;">Kenji</a></td>
-            <td>General</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@kqed/videos" target="_blank" style="color: blue; text-decoration: none;">Jacques Pepin via KQED</a></td>
-            <td>General</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@EthanChlebowski" target="_blank" style="color: blue; text-decoration: none;">Ethan Cheblowski</a></td>
-            <td>General</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@Cookwelldotcom" target="_blank" style="color: blue; text-decoration: none;">Ethan Cheblowski (Other Channel)</a></td>
-            <td>General</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@internetshaquille" target="_blank" style="color: blue; text-decoration: none;">Internet Shaquille</a></td>
-            <td>General</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@rickbayless" target="_blank" style="color: blue; text-decoration: none;">Rick Bayless</a></td>
-            <td>Mexican food</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.youtube.com/@DimitrasDishes/videos" target="_blank" style="color: blue; text-decoration: none;">Dimitri's Dishes</a></td>
-            <td>Greek food</td>
-        </tr>
-    </tbody>
-</table>
-
-
-
+<div class="container max-w-4xl mt-6 px-6">
+    <div class="pb-5 mb-5 border-b border-gray-100">
+        <h1 class="font-bold text-5xl">{{ title }}</h1>
+        <p class="text-center text-base leading-6 font-medium text-gray-500"></p>
+    </div>
+    
+    {% set cookingchannelsPage = collections.cookingchannels[0] %}
+    
+    <article class="prose lg:prose-xl my-4 mx-auto">
+        {% if cookingchannelsPage %}
+            {{ cookingchannelsPage.templateContent | safe }}
+        {% else %}
+            <p>page not found.</p>
+        {% endif %}
+    </article>
 </div>
