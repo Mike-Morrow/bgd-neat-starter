@@ -6,7 +6,7 @@ items:
     url: "/homecooking"
   - text: Food Systems
     url: "/foodsystems"
-  - text: Gut Health
+  - text: Gut
     url: "/guthealth"
-  - text: Mental Health
+  - text: Brain
     url: "/mentalhealth"
