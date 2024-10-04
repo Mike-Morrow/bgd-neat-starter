@@ -7,7 +7,7 @@ tags:
   - about
 ---
 
-My name's Mike Morrow, and I created Better Gut Digest to help people understand and improve their gut problems. 
+I created Better Gut Digest to help people understand and improve their gut problems. 
 
 Around 2019, my body gradually began rejecting the foods I used to love. Gone were the days of Chipotle and Panang Curry takeout. My diet became very restrictive out of necessity.
 
