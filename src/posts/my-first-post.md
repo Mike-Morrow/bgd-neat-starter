@@ -10,7 +10,7 @@ tags:
   - center
   - right
 ---
-If you go into a doctor’s office complaining about constipation, the most common response is “are you getting enough fiber in your diet?”
+wIf you go into a doctor’s office complaining about constipation, the most common response is “are you getting enough fiber in your diet?”
 
 If you go into that same office complaining about diarrhea, you’ll hear the same refrain, “are you getting enough fiber in your diet?”
 

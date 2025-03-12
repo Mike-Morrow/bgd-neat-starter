@@ -21,5 +21,5 @@ tags:
 | [Jacques Pepin via KQED](https://www.youtube.com/@kqed/videos) | General            |
 | [Ethan Cheblowski](https://www.youtube.com/@EthanChlebowski)   | General            |
 | [Internet Shaquille](https://www.youtube.com/@internetshaquille)| General            |
-| [Rick Bayless](https://www.youtube.com/@rickbayless)           | Mexican food       |
 | [Dimitri's Dishes](https://www.youtube.com/@DimitrasDishes/videos)| Greek food       |
+| [Chinese Cooking Demystified](https://www.youtube.com/@ChineseCookingDemystified)| Chinese       |
