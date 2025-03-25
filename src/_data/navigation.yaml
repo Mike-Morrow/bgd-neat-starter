@@ -2,11 +2,13 @@
 items:
   - text: About
     url: "/about"
-  - text: Home Cooking
-    url: "/homecooking"
-  - text: Food Systems
-    url: "/foodsystems"
-  - text: Gut
-    url: "/guthealth"
-  - text: Brain
-    url: "/mentalhealth"
+  - text: Posts
+    url: "/posts"
+  # - text: Home Cooking
+  #   url: "/homecooking"
+  # - text: Food Systems
+  #   url: "/foodsystems"
+  # - text: Gut
+  #   url: "/guthealth"
+  # - text: Brain
+  #   url: "/mentalhealth"
