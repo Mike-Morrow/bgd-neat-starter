@@ -59,5 +59,5 @@ And lastly the required optional steps —
 Add salt to taste, good olive oil, lemon or vinegar, chopped herbs, or whatever you want — it’s typical to top with reserved fried onions
 ```
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9754cf30-2265-4ae5-805a-d7d39e770cb3_1086x1192.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9754cf30-2265-4ae5-805a-d7d39e770cb3_1086x1192.png)
-
+![[Pasted image 20250325144335.png]]
 ---

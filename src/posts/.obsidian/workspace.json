@@ -11,10 +11,14 @@
             "id": "b8b12c153ae50066",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "rice-cooker-mujaddara.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "rice-cooker-mujaddara"
             }
           }
         ]
@@ -164,13 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a13bc68bc231ed68",
+  "active": "b8b12c153ae50066",
   "lastOpenFiles": [
+    "Pasted image 20250325144335.png",
+    "rice-cooker-mujaddara.md",
     "coming-soon.md",
     "IBD-Resources.md",
     "IBS-Resources.md",
     "my-first-post.md",
-    "rice-cooker-mujaddara.md",
     "second-post.md",
     "what-is-dietary-fiber.md",
     "youtubechannelrecs.md",
