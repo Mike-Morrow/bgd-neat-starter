@@ -39,12 +39,14 @@
             "id": "681be8906e90d68b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "posts/rice-cooker-mujaddara.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "rice-cooker-mujaddara"
             }
           }
         ],
@@ -194,6 +196,9 @@
   },
   "active": "681be8906e90d68b",
   "lastOpenFiles": [
+    "static/img/Brave Browser 2025-03-25 14.43.29.png",
+    "posts/Pasted image 20250325144335.png",
+    "posts/rice-cooker-mujaddara.md",
     "posts/coming-soon.md",
     "posts/second-post.md",
     "posts/IBS-Resources.md",
