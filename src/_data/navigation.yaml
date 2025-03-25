@@ -3,7 +3,7 @@ items:
   - text: About
     url: "/about"
   - text: Posts
-    url: "/posts"
+    url: "/blog"
   # - text: Home Cooking
   #   url: "/homecooking"
   # - text: Food Systems
