@@ -36,7 +36,7 @@ In the US, the FDA requires that food labels say how much fiber a food contains.
 
 Let’s take a look at Metamucil — probably the most popular fiber supplement:
 
-![](/static/img/metamucil_image.png "Metamucil nutrition info")
+<div style="text-align: center;">   <img src="/static/img/metamucil_image.png" alt="" title="Metamucil nutrition info" style="max-width: 60%; height: auto;" /> </div>
 
 Both types of fiber are said to add “bulk” to your stool, but they do so in different ways. Soluble fiber forms a gel that mixes with your stool. And insoluble fiber remains fully intact in your gut and adds solid roughage to your stool, often stimulating movement.
 
@@ -74,11 +74,11 @@ When it comes to what fiber supplement is best, there is no clear cut answer. Th
 
 A quick Google Trends search reveals Metamucil as the most commonly searched of the 3:
 
-![](/static/img/google-trends-fiber.png "Google Trends Sept 2024 Snapshot")
+<div style="text-align: center;">   <img src="/static/img/google-trends-fiber.png" alt="" title="Google Trends Sept 2024 Snapshot" style="max-width: 60%; height: auto;" /> </div>
 
 Metamucil is made from psyllium husk, which comes from plants in the “Plantago” genus[](https://bettergutdigest.substack.com/p/whats-the-deal-with-fiber#footnote-2-148724526). When most people think of husk, they think of a corn’s husk. It’s the same idea here just a smaller plant.
 
-![](/static/img/metamucil-diagram.jpg "Metamucil diagram")
+<div style="text-align: center;">   <img src="/static/img/metamucil-diagram.jpg" alt="" title="Metamucil diagram" style="max-width: 60%; height: auto;" /> </div>
 
 As mentioned earlier, Metamucil contains mostly soluble fiber with a little bit of insoluble fiber.
 
@@ -86,7 +86,7 @@ As mentioned earlier, Metamucil contains mostly soluble fiber with a little bit 
 
 Benefiber (100% soluble fiber) is made out of wheat dextrin — a simple carbohydrate derived from the endosperm of wheat. Dextrin is used in various food and baking applications[3](https://bettergutdigest.substack.com/p/whats-the-deal-with-fiber#footnote-3-148724526).
 
-![](/static/img/benefiber-diagram.jpg "Benefiber diagram")
+<div style="text-align: center;">   <img src="/static/img/benefiber-diagram.jpg" alt="" title="Benefiber diagram" style="max-width: 60%; height: auto;" /> </div>
 
 Benefiber only contain soluble fiber. This is evident because when you mix it well into water, the water becomes totally clear.
 
@@ -96,7 +96,7 @@ Citrucel (100% soluble fiber) comes from methylcellulose, a compound that is der
 
 Cellulose makes up the cell walls of plants. The most common sources of cellulose for production are cotton and wood pulp. The diagram below shows how cotton undergoes multiple physical and chemical processes until we get methylcellulose at the end.
 
-![](/static/img/citrucel-diagram.jpg "Citrucel Diagram")
+<div style="text-align: center;">   <img src="/static/img/citrucel-diagram.jpg" alt="" title="Citrucel Diagram" style="max-width: 60%; height: auto;" /> </div>
 
 Interestingly, methylcellulose does not ferment in the gut, so people commonly report having less gas when using Citrucel.
 
@@ -104,7 +104,7 @@ Interestingly, methylcellulose does not ferment in the gut, so people commonly r
 
 Okay I don’t think anyone calls it “indie fiber” but there are options outside of the big 3 fiber supplements. One example is Sun Fiber, which uses partially hydrolyzed guar gum (100% soluble fiber). I am interested in trying this, but the relative cost is a little steep to justify.
 
-![](/static/img/sun-fiber-diagram.jpg "Sun Fiber diagram")
+<div style="text-align: center;">   <img src="/static/img/sun-fiber-diagram.jpg" alt="" title="Sun Fiber diagram" style="max-width: 60%; height: auto;" /> </div>
 
 ### Fiber is complicated
 
