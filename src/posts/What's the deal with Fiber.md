@@ -78,7 +78,7 @@ A quick Google Trends search reveals Metamucil as the most commonly searched of 
 
 Metamucil is made from psyllium husk, which comes from plants in the “Plantago” genus[](https://bettergutdigest.substack.com/p/whats-the-deal-with-fiber#footnote-2-148724526). When most people think of husk, they think of a corn’s husk. It’s the same idea here just a smaller plant.
 
-<div style="text-align: center;">   <img src="/static/img/metamucil-diagram.jpg" alt="" title="Metamucil diagram" style="max-width: 60%; height: auto;" /> </div>
+<div style="text-align: center;">   <img src="static/img/metamucil-diagram.jpg" alt="" title="Metamucil diagram" style="max-width: 60%; height: auto;" /> </div>
 
 As mentioned earlier, Metamucil contains mostly soluble fiber with a little bit of insoluble fiber.
 
