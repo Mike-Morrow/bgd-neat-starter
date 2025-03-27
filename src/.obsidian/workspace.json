@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/about.md",
+                "file": "posts/What's the deal with Fiber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "What's the deal with Fiber"
             }
           }
         ],
@@ -196,24 +196,26 @@
   },
   "active": "681be8906e90d68b",
   "lastOpenFiles": [
-    "posts/What's the deal with Fiber.md",
-    "static/img/Brave Browser 2025-03-26 21.40.15 1.png",
-    "static/img/Brave Browser 2025-03-26 21.40.15.png",
-    "posts/youtubechannelrecs.md",
-    "posts/what-is-dietary-fiber.md",
-    "posts/rice-cooker-mujaddara.md",
     "posts/second-post.md",
+    "posts/What's the deal with Fiber.md",
+    "posts/youtubechannelrecs.md",
+    "posts/about.md",
+    "posts/rice-cooker-mujaddara.md",
     "posts/IBS-Resources.md",
-    "static/img/google-trends-fiber.png",
-    "static/img/citrucel-diagram.jpg",
     "posts/IBD-Resources.md",
     "posts/coming-soon.md",
-    "posts/about.md",
+    "static/img/IMG_6287 2.jpeg",
+    "static/img/IMG_6287 1.jpeg",
+    "static/img/IMG_6287.jpeg",
+    "static/img/Brave Browser 2025-03-26 21.40.15 1.png",
+    "static/img/Brave Browser 2025-03-26 21.40.15.png",
+    "posts/what-is-dietary-fiber.md",
+    "static/img/google-trends-fiber.png",
+    "static/img/citrucel-diagram.jpg",
     "posts/Untitled.md",
     "asdasd.md",
     "static/img/Brave Browser 2025-03-25 14.53.19.png",
     "static/img/Brave Browser 2025-03-25 14.50.44.png",
-    "static/img/Brave Browser 2025-03-25 14.43.29.png",
-    "posts/Pasted image 20250325144335.png"
+    "static/img/Brave Browser 2025-03-25 14.43.29.png"
   ]
 }
