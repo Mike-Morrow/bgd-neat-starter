@@ -1,0 +1,399 @@
+<style>
+  .diner-menu {
+    font-family: 'Courier New', monospace;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #fffdf5;
+  }
+  .menu-header {
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 4px double #333;
+  }
+  .diner-title {
+    font-size: 3rem;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 10px 0;
+    color: #1a1a1a;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  .menu-subtitle {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin: 0;
+    color: #666;
+  }
+  .menu-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .menu-section {
+    flex: 1 0 30%;
+    min-width: 300px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+    background-color: #fff;
+    overflow: hidden;
+  }
+  .section-heading {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0;
+    padding: 8px;
+    background-color: #B22222;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+  }
+  .menu-items {
+    padding: 10px 15px;
+  }
+  .menu-item {
+    padding: 8px 0;
+    border-bottom: 1px dotted #999;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .menu-item:last-child {
+    border-bottom: none;
+  }
+  .item-name {
+    font-weight: bold;
+    padding-right: 10px;
+    max-width: 70%;
+  }
+  .item-price {
+    font-weight: bold;
+    color: #B22222;
+  }
+  .daily-special {
+    background-color: #fffce8;
+    border: 2px solid #B22222;
+    padding: 15px;
+    margin: 20px auto;
+    text-align: center;
+    max-width: 500px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+  }
+  .special-title {
+    color: #B22222;
+    margin: 0 0 10px 0;
+    font-size: 1.6rem;
+    font-weight: bold;
+  }
+  .menu-footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  @media (max-width: 768px) {
+    .menu-section {
+      flex: 1 0 45%;
+      min-width: 250px;
+    }
+  }
+  @media (max-width: 480px) {
+    .menu-section {
+      flex: 1 0 100%;
+    }
+  }
+</style>
+
+<header class="menu-header">
+  <h1 class="diner-title">Mike's Diner</h1>
+  <p class="menu-subtitle">Serving Mike's Classics Since 1994</p>
+</header>
+
+<section class="daily-special">
+  <h2 class="special-title">TODAY'S SPECIAL</h2>
+  <p>Hot Turkey Sandwich with Mashed Potatoes and Gravy - $12.99</p>
+</section>
+
+<main class="menu-grid">
+  <!-- Rice Dishes -->
+  <section class="menu-section">
+    <h2 class="section-heading">Rice Dishes</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Chicken Fried Rice</span>
+        <span class="item-price">$12.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Vegetable Fried Rice</span>
+        <span class="item-price">$10.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Shrimp Fried Rice</span>
+        <span class="item-price">$14.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Beef Fried Rice</span>
+        <span class="item-price">$13.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Arroz Chaufa</span>
+        <span class="item-price">$13.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Kimchi Fried Rice</span>
+        <span class="item-price">$12.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Soups -->
+  <section class="menu-section">
+    <h2 class="section-heading">Soups</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Ramen</span>
+        <span class="item-price">$13.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Italian Wedding Soup</span>
+        <span class="item-price">$10.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Chicken Noodle Soup</span>
+        <span class="item-price">$9.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Lentil Soup</span>
+        <span class="item-price">$8.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Tomato Soup</span>
+        <span class="item-price">$7.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Gypsy Soup</span>
+        <span class="item-price">$9.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Stews & Chilis -->
+  <section class="menu-section">
+    <h2 class="section-heading">Stews &amp; Chilis</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Tajine</span>
+        <span class="item-price">$15.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Fasolakia</span>
+        <span class="item-price">$12.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Beef Stew</span>
+        <span class="item-price">$14.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Vegetarian Chili</span>
+        <span class="item-price">$11.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Beef Chili</span>
+        <span class="item-price">$13.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Chicken Chili</span>
+        <span class="item-price">$12.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Breakfast -->
+  <section class="menu-section">
+    <h2 class="section-heading">Breakfast</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Scrambled Eggs</span>
+        <span class="item-price">$8.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Migas</span>
+        <span class="item-price">$10.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Omelet</span>
+        <span class="item-price">$11.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Fried Eggs</span>
+        <span class="item-price">$8.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Noodle Dishes -->
+  <section class="menu-section">
+    <h2 class="section-heading">Noodle Dishes</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Sunday Gravy Pasta</span>
+        <span class="item-price">$15.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Pasta Primavera</span>
+        <span class="item-price">$13.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Classic Marinara</span>
+        <span class="item-price">$12.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Pesto Pasta</span>
+        <span class="item-price">$13.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Cacio e Pepe</span>
+        <span class="item-price">$14.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Carbonara</span>
+        <span class="item-price">$15.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Burgers & More -->
+  <section class="menu-section">
+    <h2 class="section-heading">Burgers &amp; More</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Beef Burger</span>
+        <span class="item-price">$12.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Turkey Burger</span>
+        <span class="item-price">$11.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Black Bean Burger</span>
+        <span class="item-price">$10.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Fish Burger</span>
+        <span class="item-price">$13.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Lamb Gyro</span>
+        <span class="item-price">$11.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Falafel Gyro</span>
+        <span class="item-price">$10.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Sandwiches -->
+  <section class="menu-section">
+    <h2 class="section-heading">Sandwiches</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Nut Butter Sandwich</span>
+        <span class="item-price">$7.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Lunch Meat Sandwich</span>
+        <span class="item-price">$9.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Vegetarian Sandwich</span>
+        <span class="item-price">$8.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Fish Salad Sandwich</span>
+        <span class="item-price">$10.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Avocado Toast</span>
+        <span class="item-price">$9.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Sloppy Joe</span>
+        <span class="item-price">$9.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Mexican Specialties -->
+  <section class="menu-section">
+    <h2 class="section-heading">Mexican Specialties</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Burrito</span>
+        <span class="item-price">$10.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Quesadilla</span>
+        <span class="item-price">$9.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Enchiladas</span>
+        <span class="item-price">$12.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Breakfast Taco</span>
+        <span class="item-price">$3.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Chicken Taco</span>
+        <span class="item-price">$4.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Fish Taco</span>
+        <span class="item-price">$5.99</span>
+      </li>
+    </ul>
+  </section>
+  
+  <!-- Salads & Sides -->
+  <section class="menu-section">
+    <h2 class="section-heading">Salads &amp; Sides</h2>
+    <ul class="menu-items">
+      <li class="menu-item">
+        <span class="item-name">Chopped Salad</span>
+        <span class="item-price">$9.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Arab Salad</span>
+        <span class="item-price">$8.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Coleslaw</span>
+        <span class="item-price">$5.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Potato Salad</span>
+        <span class="item-price">$6.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Mashed Potatoes</span>
+        <span class="item-price">$5.99</span>
+      </li>
+      <li class="menu-item">
+        <span class="item-name">Corn Bread</span>
+        <span class="item-price">$4.99</span>
+      </li>
+    </ul>
+  </section>
+</main>
+
+<footer class="menu-footer">
+  <p>Prices subject to change. 18% gratuity added for parties of 6 or more.</p>
+</footer>

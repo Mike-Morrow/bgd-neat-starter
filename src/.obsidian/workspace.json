@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/youtubechannelrecs.md",
+                "file": "posts/Mike's Diner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "youtubechannelrecs"
+              "title": "Mike's Diner"
             }
           }
         ],
@@ -196,14 +196,17 @@
   },
   "active": "681be8906e90d68b",
   "lastOpenFiles": [
+    "posts/Mike's Foods.md",
+    "posts/Mike's Diner.md",
+    "_includes/menu.html",
+    "posts/about.md",
+    "posts/IBD-Resources.md",
+    "posts/IBS-Resources.md",
+    "posts/youtubechannelrecs.md",
     "static/img/Pasted image 20250327152212.png",
     "posts/What's the deal with Fiber.md",
-    "posts/IBS-Resources.md",
-    "posts/IBD-Resources.md",
     "posts/rice-cooker-mujaddara.md",
-    "posts/about.md",
     "posts/second-post.md",
-    "posts/youtubechannelrecs.md",
     "posts/coming-soon.md",
     "static/img/IMG_6287 2.jpeg",
     "static/img/IMG_6287 1.jpeg",
@@ -216,7 +219,6 @@
     "posts/Untitled.md",
     "asdasd.md",
     "static/img/Brave Browser 2025-03-25 14.53.19.png",
-    "static/img/Brave Browser 2025-03-25 14.50.44.png",
-    "static/img/Brave Browser 2025-03-25 14.43.29.png"
+    "static/img/Brave Browser 2025-03-25 14.50.44.png"
   ]
 }
