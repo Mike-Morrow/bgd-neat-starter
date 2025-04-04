@@ -1,5 +1,5 @@
 ---
-title: Menu
+title: Mike's Diner
 description: About
 author: Mike Morrow
 date: 2025-03-27
